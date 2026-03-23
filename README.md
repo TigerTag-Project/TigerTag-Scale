@@ -2,6 +2,14 @@
 
 > **Smart IoT scale with ESP32** — Real-time weight monitoring, RFID tracking, and cloud synchronization
 
+## 🚀 ESP32 Web Installer
+
+Set up or flash your TigerTag Scale ESP32 directly from your browser:
+
+👉 **[Open the Web Installer](https://tigertag-project.github.io/TigerTag-Scale/)**
+
+> Browser-based setup interface for the ESP32.
+
 [![Platform](https://img.shields.io/badge/platform-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
 [![Framework](https://img.shields.io/badge/framework-Arduino-00979D.svg)](https://www.arduino.cc/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -158,6 +166,14 @@ Total: ~3.9 MB / 4 MB
 - [PlatformIO](https://platformio.org/) (recommended) or Arduino IDE
 - Python 3.7+ (for build automation)
 - USB drivers: [CP210x](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) or [CH340](https://www.wch-ic.com/downloads/CH341SER_ZIP.html)
+
+### Web Installer (Recommended)
+
+For the easiest setup experience, use the official browser-based installer:
+
+👉 **[TigerTag Scale Web Installer](https://tigertag-project.github.io/TigerTag-Scale/)**
+
+This interface lets you set up or flash the ESP32 directly from your browser.
 
 ### Quick Start
 
